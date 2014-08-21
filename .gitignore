@@ -13,3 +13,19 @@ hs_err_pid*
 
 # bin directory
 bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+#Gradle
+.gradletasknamecache
+.gradle/
+build/
+bin/
+
+
